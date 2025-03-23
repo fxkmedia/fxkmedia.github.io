@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://fxkm.link'
 languageCode: en-GB
 title: FXKM
 yt: ''
@@ -12,3 +12,9 @@ theme: lightbi-hugo
     # - identifier: search
     #   name: Categories
     #   url: /categories/
+
+sitemap:
+  changeFreq: "always"
+  disable: false
+  filename: sitemap.xml
+  priority: -1
