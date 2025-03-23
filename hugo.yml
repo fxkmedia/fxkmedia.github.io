@@ -1,4 +1,14 @@
 baseURL: ''
-languageCode: en-us
+languageCode: en-GB
 title: FXKM
-theme: PaperMod
+yt: ''
+theme: lightbi-hugo
+
+# menu:
+#   main:
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    # - identifier: search
+    #   name: Categories
+    #   url: /categories/
