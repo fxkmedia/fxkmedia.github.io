@@ -1,0 +1,23 @@
+baseURL: 'https://fxkm.link'
+languageCode: en-GB
+title: FXKM
+yt: ''
+theme: lightbi-hugo
+
+#lunrSearch: true
+
+
+# menu:
+#   main:
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    # - identifier: search
+    #   name: Categories
+    #   url: /categories/
+
+sitemap:
+  changeFreq: "always"
+  disable: false
+  filename: sitemap.xml
+  priority: -1
